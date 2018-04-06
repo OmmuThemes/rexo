@@ -9,17 +9,17 @@
 		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/rexo",
+	"homepage": "https://github.com/ommu/theme-rexo",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/rexo/issues",
-		"wiki": "https://github.com/OmmuThemes/rexo/wiki",
-		"source": "https://github.com/OmmuThemes/rexo"
+		"issues": "https://github.com/ommu/theme-rexo/issues",
+		"wiki": "https://github.com/ommu/theme-rexo/wiki",
+		"source": "https://github.com/ommu/theme-rexo"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/rexo.git"
+		"url": "https://github.com/ommu/theme-rexo.git"
 	},
 	"authors": [
 		{
