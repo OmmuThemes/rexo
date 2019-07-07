@@ -1,16 +1,19 @@
 {
 	"name": "ommu/rexo",
 	"description": "Rexo - One Page Parallax for Ommu Platform",
+	"type": "ommu-theme",
 	"keywords": [
 		"theme",
-		"frontend",
-		"onepage",
+		"rexo",
+		"front-template",
+		"one-page",
+		"landing-page",
 		"ommu",
-		"ommu platform"
+		"ommu-platform",
+		"yii2"
 	],
-	"homepage": "https://github.com/ommu/theme-rexo",
-	"type": "ommu-theme",
 	"license": "Apache-2.0",
+	"homepage": "https://github.com/ommu/theme-rexo",
 	"support": {
 		"issues": "https://github.com/ommu/theme-rexo/issues",
 		"wiki": "https://github.com/ommu/theme-rexo/wiki",
@@ -24,7 +27,7 @@
 		{
 			"name": "Putra Sudaryanto",
 			"email": "putra@sudaryanto.id",
-			"homepage": "https://putra.sudaryanto.id",
+			"homepage": "https://sudaryanto.id",
 			"role": "Developer"
 		},
 		{
@@ -34,10 +37,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.2",
-		"oomphinc/composer-installers-extender": "^1.0",
-		"yiisoft/yii": "1.1.*"
-	},
-	"require-dev": {
+		"php": "~7.0",
+		"yiisoft/yii2": "~2.0.14"
 	}
 }
